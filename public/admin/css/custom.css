@@ -1,0 +1,11 @@
+div#navbarSupportedContent {
+    background-color: #274aa1 !important;
+} 
+
+ul#sidebarnav li.sidebar-item.selected * { 
+    color: #274aa1 !important;
+}     
+
+.feedback {
+    color: red;
+}
